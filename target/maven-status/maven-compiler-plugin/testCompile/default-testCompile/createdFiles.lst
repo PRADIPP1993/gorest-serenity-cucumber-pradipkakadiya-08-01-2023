@@ -1,0 +1,7 @@
+com\gorest\crudtests\UsersCRUDTest.class
+com\gorest\cucumber\steps\MyStepdefs.class
+com\gorest\cucumber\CucumberRunner.class
+com\gorest\crudtests\UsersTagsTest.class
+com\gorest\testbase\TestBase.class
+com\gorest\crudtests\UsersDataDrivenTest.class
+com\gorest\AppTest.class
